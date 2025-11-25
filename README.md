@@ -1,4 +1,4 @@
-EmpyraOS: The Anonymous, Optimized, and Secure Linux Foundation
+# EmpyraOS: The Anonymous, Optimized, and Secure Linux Foundation
 
 🛡️ Project Overview: Rethinking the Operating System
 
